@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form\SupportForm\FormattedDataTimePicker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Form\FormRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\FormAuthorization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\SupportForm\PhoneMaskedTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Form\SupportForm\Messages\ConfirmForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\SupportForm\Orders\FormOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\SupportForm\Orders\FormOrderTableLayoutPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Form\SupportForm\Messages\InformationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\SupportForm\Orders\OrderInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\SupportForm\Orders\OrdersGroupBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Form\SupportForm\UserInfo.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

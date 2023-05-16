@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="KProject.DataBase">
+    <Position X="4.5" Y="5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="KProject.DataBase.Storage">
+        <TypeIdentifier>
+          <NewMemberFileName>DataBase.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <AssociationLine Name="CurrentUser" Type="KProject.User">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.21" Y="0.06" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAEAAAAIEIgACQACwAAAAAAABAQAAAAAAAACIAAAAgA=</HashCode>
+      <FileName>DataBase.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="CurrentUser" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="Orders" />
+    </ShowAsCollectionAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KProject.Order">
+    <Position X="1" Y="5" Width="2.5" />
+    <AssociationLine Name="Sender" Type="KProject.Person" ManuallyRouted="true">
+      <Path>
+        <Point X="2.25" Y="5" />
+        <Point X="2.25" Y="4.442" />
+        <Point X="8.5" Y="4.442" />
+        <Point X="8.5" Y="6.5" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.465" Y="0.127" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="Recipient" Type="KProject.Person" ManuallyRouted="true">
+      <Path>
+        <Point X="2.906" Y="5" />
+        <Point X="2.906" Y="4.625" />
+        <Point X="8.094" Y="4.625" />
+        <Point X="8.094" Y="6.5" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-1.289" Y="0.204" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAIggAQEBqAAAAgAASAAAAAQAAAAIAAIEAA=</HashCode>
+      <FileName>Order.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="OrderType" />
+      <Property Name="Sender" />
+      <Property Name="Recipient" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KProject.Person">
+    <Position X="7.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KProject.User">
+    <Position X="8.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAAAAAAAAAAAAAAAAACAACAAAAAAAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="UserType" />
+    </ShowAsAssociation>
+  </Class>
+  <Interface Name="KProject.IDataBase">
+    <Position X="2.5" Y="9.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIEAgACQACwAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>IDataBase.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="KProject.OrderType">
+    <Position X="0.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABACAAAAAAAAAAAAAAAAAAAAAgAEAAAAAgAA=</HashCode>
+      <FileName>OrderType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="KProject.UserType">
+    <Position X="7.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UserType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

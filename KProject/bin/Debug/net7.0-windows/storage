@@ -1,0 +1,90 @@
+{
+  "Orders": [
+    {
+      "Id": 1,
+      "UserId": 1,
+      "DepartureDate": "2023-05-12T13:07:14.1657343+03:00",
+      "DeliveryDate": null,
+      "ReceivedDate": null,
+      "Description": "електротовари",
+      "DepartureCity": "Харків",
+      "DeliveryCity": "Житомир",
+      "Recipient": {
+        "Name": "Гриценко Владислав",
+        "Phone": "+38(095)65-21-961"
+      },
+      "Sender": {
+        "Name": "Козленко Денис",
+        "Phone": "+38(055)55-55-555"
+      },
+      "Weight": 2,
+      "ShippingCost": 64.7,
+      "Payment": 1220,
+      "OrderType": 0
+    },
+    {
+      "Id": 2,
+      "UserId": 0,
+      "DepartureDate": "2023-05-16T11:16:14.373176+03:00",
+      "DeliveryDate": null,
+      "ReceivedDate": null,
+      "Description": "одяг",
+      "DepartureCity": "Харків",
+      "DeliveryCity": "Київ",
+      "Recipient": {
+        "Name": "Рудий Назар",
+        "Phone": "+38(040)40-40-404"
+      },
+      "Sender": {
+        "Name": "Клименко Роман",
+        "Phone": "+38(050)11-11-111"
+      },
+      "Weight": 1,
+      "ShippingCost": 63.25,
+      "Payment": 1200,
+      "OrderType": 0
+    },
+    {
+      "Id": 3,
+      "UserId": 1,
+      "DepartureDate": "2023-05-16T11:28:01.7891036+03:00",
+      "DeliveryDate": null,
+      "ReceivedDate": null,
+      "Description": "одяг",
+      "DepartureCity": "Харків",
+      "DeliveryCity": "Запоріжжя",
+      "Recipient": {
+        "Name": "Гриценко Владислав",
+        "Phone": "+38(095)65-21-961"
+      },
+      "Sender": {
+        "Name": "Бреславець Микола",
+        "Phone": "+38(444)44-44-444"
+      },
+      "Weight": 3,
+      "ShippingCost": 98.75999,
+      "Payment": 4501,
+      "OrderType": 0
+    }
+  ],
+  "Users": [
+    {
+      "Id": 1,
+      "Email": "vbhrytsenko@gmail.com",
+      "Password": "123123",
+      "UserType": 0,
+      "Name": "Гриценко Владислав",
+      "Phone": "+38(095)65-21-961"
+    },
+    {
+      "Id": 2,
+      "Email": "admin@gmail.com",
+      "Password": "123123",
+      "UserType": 1,
+      "Name": "Admin",
+      "Phone": "+38(000)00-00-000"
+    }
+  ],
+  "LastUserPhone": "+38(095)65-21-961",
+  "LastUserPassword": "123123"
+}

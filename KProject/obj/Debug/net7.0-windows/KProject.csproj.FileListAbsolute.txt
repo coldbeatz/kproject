@@ -1,0 +1,44 @@
+C:\Users\popel\Desktop\FreeLance\SimpleProject\ТЗ\KProject\bin\Debug\net7.0-windows\KProject.exe
+C:\Users\popel\Desktop\FreeLance\SimpleProject\ТЗ\KProject\obj\Debug\net7.0-windows\KProject.csproj.AssemblyReference.cache
+C:\Users\popel\Desktop\FreeLance\SimpleProject\ТЗ\KProject\obj\Debug\net7.0-windows\KProject.FormAuthentication.resources
+C:\Users\popel\Desktop\FreeLance\SimpleProject\ТЗ\KProject\obj\Debug\net7.0-windows\KProject.FormAuthorization.resources
+C:\Users\popel\Desktop\FreeLance\SimpleProject\ТЗ\KProject\obj\Debug\net7.0-windows\ConstructorTest.UI.Form.FormComunication.MainForm.resources
+C:\Users\popel\Desktop\FreeLance\SimpleProject\ТЗ\KProject\obj\Debug\net7.0-windows\KProject.Form.SupportForm.FormOrder.resources
+C:\Users\popel\Desktop\FreeLance\SimpleProject\ТЗ\KProject\obj\Debug\net7.0-windows\KProject.Form.SupportForm.OrderInfo.resources
+C:\Users\popel\Desktop\FreeLance\SimpleProject\ТЗ\KProject\obj\Debug\net7.0-windows\KProject.csproj.GenerateResource.cache
+C:\Users\popel\Desktop\FreeLance\SimpleProject\ТЗ\KProject\obj\Debug\net7.0-windows\KProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\popel\Desktop\FreeLance\SimpleProject\ТЗ\KProject\obj\Debug\net7.0-windows\KProject.AssemblyInfoInputs.cache
+C:\Users\popel\Desktop\FreeLance\SimpleProject\ТЗ\KProject\obj\Debug\net7.0-windows\KProject.AssemblyInfo.cs
+C:\Users\popel\Desktop\FreeLance\SimpleProject\ТЗ\KProject\obj\Debug\net7.0-windows\KProject.csproj.CoreCompileInputs.cache
+C:\Users\popel\Desktop\FreeLance\SimpleProject\ТЗ\KProject\obj\Debug\net7.0-windows\KProject.dll
+C:\Users\popel\Desktop\FreeLance\SimpleProject\ТЗ\KProject\obj\Debug\net7.0-windows\refint\KProject.dll
+C:\Users\popel\Desktop\FreeLance\SimpleProject\ТЗ\KProject\obj\Debug\net7.0-windows\KProject.pdb
+C:\Users\popel\Desktop\FreeLance\SimpleProject\ТЗ\KProject\bin\Debug\net7.0-windows\KProject.deps.json
+C:\Users\popel\Desktop\FreeLance\SimpleProject\ТЗ\KProject\bin\Debug\net7.0-windows\KProject.runtimeconfig.json
+C:\Users\popel\Desktop\FreeLance\SimpleProject\ТЗ\KProject\bin\Debug\net7.0-windows\KProject.dll
+C:\Users\popel\Desktop\FreeLance\SimpleProject\ТЗ\KProject\bin\Debug\net7.0-windows\KProject.pdb
+C:\Users\popel\Desktop\FreeLance\SimpleProject\ТЗ\KProject\obj\Debug\net7.0-windows\KProject.genruntimeconfig.cache
+C:\Users\popel\Desktop\FreeLance\SimpleProject\ТЗ\KProject\obj\Debug\net7.0-windows\ref\KProject.dll
+C:\Users\vbhry\Downloads\KProject (1)\KProject\bin\Debug\net7.0-windows\KProject.exe
+C:\Users\vbhry\Downloads\KProject (1)\KProject\bin\Debug\net7.0-windows\KProject.deps.json
+C:\Users\vbhry\Downloads\KProject (1)\KProject\bin\Debug\net7.0-windows\KProject.runtimeconfig.json
+C:\Users\vbhry\Downloads\KProject (1)\KProject\bin\Debug\net7.0-windows\KProject.dll
+C:\Users\vbhry\Downloads\KProject (1)\KProject\bin\Debug\net7.0-windows\KProject.pdb
+C:\Users\vbhry\Downloads\KProject (1)\KProject\obj\Debug\net7.0-windows\KProject.csproj.AssemblyReference.cache
+C:\Users\vbhry\Downloads\KProject (1)\KProject\obj\Debug\net7.0-windows\KProject.FormAuthorization.resources
+C:\Users\vbhry\Downloads\KProject (1)\KProject\obj\Debug\net7.0-windows\ConstructorTest.UI.Form.FormComunication.MainForm.resources
+C:\Users\vbhry\Downloads\KProject (1)\KProject\obj\Debug\net7.0-windows\KProject.Form.SupportForm.FormOrder.resources
+C:\Users\vbhry\Downloads\KProject (1)\KProject\obj\Debug\net7.0-windows\KProject.Form.SupportForm.OrderInfo.resources
+C:\Users\vbhry\Downloads\KProject (1)\KProject\obj\Debug\net7.0-windows\KProject.csproj.GenerateResource.cache
+C:\Users\vbhry\Downloads\KProject (1)\KProject\obj\Debug\net7.0-windows\KProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vbhry\Downloads\KProject (1)\KProject\obj\Debug\net7.0-windows\KProject.AssemblyInfoInputs.cache
+C:\Users\vbhry\Downloads\KProject (1)\KProject\obj\Debug\net7.0-windows\KProject.AssemblyInfo.cs
+C:\Users\vbhry\Downloads\KProject (1)\KProject\obj\Debug\net7.0-windows\KProject.csproj.CoreCompileInputs.cache
+C:\Users\vbhry\Downloads\KProject (1)\KProject\obj\Debug\net7.0-windows\KProject.dll
+C:\Users\vbhry\Downloads\KProject (1)\KProject\obj\Debug\net7.0-windows\refint\KProject.dll
+C:\Users\vbhry\Downloads\KProject (1)\KProject\obj\Debug\net7.0-windows\KProject.pdb
+C:\Users\vbhry\Downloads\KProject (1)\KProject\obj\Debug\net7.0-windows\KProject.genruntimeconfig.cache
+C:\Users\vbhry\Downloads\KProject (1)\KProject\obj\Debug\net7.0-windows\ref\KProject.dll
+C:\Users\vbhry\Downloads\KProject (1)\KProject\obj\Debug\net7.0-windows\KProject.FormRegistration.resources
+C:\Users\vbhry\Downloads\KProject (1)\KProject\obj\Debug\net7.0-windows\KProject.Form.SupportForm.Messages.ConfirmForm.resources
+C:\Users\vbhry\Downloads\KProject (1)\KProject\obj\Debug\net7.0-windows\KProject.Form.SupportForm.Messages.InformationForm.resources
