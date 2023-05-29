@@ -52,11 +52,11 @@ namespace KProject
             }
             else
             {
-                InformationForm.Show("ÕÂ ‚≥ÌËÈ ÚÂÎÂÙÓÌ ‡·Ó Ô‡ÓÎ¸");
+                InformationForm.Show("–ù–µ –≤—ñ—Ä–Ω–∏–π —Ç–µ–ª–µ—Ñ–æ–Ω –∞–±–æ –ø–∞—Ä–æ–ª—å");
             }
         }
 
-        private void FormAuthorization_Load(object sender, EventArgs e)
+        protected override void OnLoad(EventArgs e)
         {
             string? phone = dataBase.LastUserPhone;
             string? password = dataBase.LastUserPassword;
@@ -65,9 +65,12 @@ namespace KProject
 
             if (user != null)
             {
-                // ÍÓÒÚËÎ¸, ÒÍË‚‡ÌÌˇ ÙÓÏË Ô≥ÒÎˇ øø Á‡‚‡ÌÚ‡ÊÂÌÌˇ
+                // –∫–æ—Å—Ç–∏–ª—å, —Å–∫—Ä–∏–≤–∞–Ω–Ω—è —Ñ–æ—Ä–º–∏ –ø—ñ—Å–ª—è —ó—ó –∑–∞–≤–∞–Ω—Ç–∞–∂–µ–Ω–Ω—è
                 BeginInvoke(new Action(() => ShowOrderForm(user)));
             }
+
+            // –í—ã–∑–≤–∞—Ç—å –±–∞–∑–æ–≤—É—é —Ä–µ–∞–ª–∏–∑–∞—Ü–∏—é OnLoad
+            base.OnLoad(e);
         }
     }
 }
